@@ -9,4 +9,6 @@
     <color name="primaryDark">#FF3700B3</color>
     <color name="accent">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <color name="grey">#383A38</color>
+    <color name="darkBlue">#00008B</color>
 </resources>
