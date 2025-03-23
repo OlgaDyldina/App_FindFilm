@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/favorites"
+        app:showAsAction="withText"
+        android:icon="@drawable/baseline_favorite"
+        android:title="@string/menu_favorites_title" />
+    <item
+        android:id="@+id/watch_later"
+        app:showAsAction="withText"
+        android:icon="@drawable/baseline_watch_later"
+        android:title="@string/menu_watch_later_title" />
+    <item
+        android:id="@+id/selections"
+        app:showAsAction="withText"
+        android:icon="@drawable/baseline_collections"
+        android:title="@string/menu_selections_title" />
+
+</menu>
